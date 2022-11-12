@@ -4,7 +4,10 @@ Meu nome é Adelson, tenho 24 anos, nasci e cresci na cidade de São Paulo - SP 
 Meu interesse por programação começou antes mesmo de eu escrever uma linha de código. Como desenvolvimento de software é uma área criativa, primeiro vem a ideia e depois o código. Eu já tinha a ideia (na verdade eu tinha várias), porém não sabia como implementa-la e não sabia que existem várias linguagens de programação e tantos conceitos diferente de desenvolvimento. Resumindo: eu não sabia nada!
 Em busca do “como fazer”, descobri que precisava programar. Lembro que li um código (que parecia C#/C++) na internet e pense: “nossa, isso não é para seres humanos normais”. Programação parecia longe da minha realidade. Mesmo assim, eu me desafiei e…
 
-- continuar lendo…
+<details>
+    <summary>
+        <strong> continuar lendo… </strong>
+    </summary>
     
     entrei no curso Técnico de Informática da Escola Técnica Estadual (ETEC) e então, finalmente aprendiz a programar. Mesmo que eu não tivesse conhecimento suficiente para desenvolve-las, durante o curso, eu ainda tive muitas outras ideias de aplicações para mobile, web e desktop (até mesmo IOT).
     
@@ -30,3 +33,4 @@ Em busca do “como fazer”, descobri que precisava programar. Lembro que li um
     - Dev.: MySQL, Criação de API REST, Express, Sequelize, JWT, TypeScript e Mongoose;
     Database: MySQL e MongoDB;
     - Test: Mocha, Chai e Sinon (integração);
+</details>
