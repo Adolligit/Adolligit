@@ -1,3 +1,5 @@
+# Contato:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adson-gomes-oliveira/)](https://www.linkedin.com/in/adelson-lima/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelson.onod@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511958949538)
 # Quem sou eu:
 Meu nome é Adelson, tenho 24 anos, nasci e cresci na cidade de São Paulo - SP e atualmente continuo morando nela, mais especificamente na zona sul.
 
