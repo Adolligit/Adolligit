@@ -14,38 +14,40 @@ Em busca do “como fazer”, descobri que precisava programar. Lembro que li um
     [...] entrei no curso Técnico de Informática da Escola Técnica Estadual (ETEC) e então, finalmente aprendiz a programar. Mesmo que eu não tivesse conhecimento suficiente para desenvolve-las, durante o curso, eu ainda tive muitas outras ideias de aplicações para mobile, web e desktop (até mesmo IOT).
   </p>
 
-<!-- Durante o curso da ETEC, eu explorei os seguintes conteúdos (sendo que Java foi a que mais me aprofundei):
+Durante o curso da ETEC, eu explorei os seguintes conteúdos (sendo que Java foi a que mais me aprofundei):
+
 **Conceitos:**
+- Lógica de programação;
+- Análise e desenvolvimento de sistema e modelagem de banco de dados relacional;
+- Desenvolvimento de sistemas com Programação Orientada a Objetos;
+- Conceitos de empreendedorismo;
+
 **Ferramentas:**
-****
+- MySQL;
 - HTML / CSS;
 - PHP;
-- Visual Basic;
-- Java;
-- MySQL; -->
+- Visual Basic .NET;
+- Java SE;
   
 Atualmente eu estou no curso de Desenvolvedor Web Full Stack da Trybe, onde já aprendi as seguintes linguagens e ferramentas (separadas por módulo):
 
 **Fundamentos:**
-
 - Front: JavaScript (ES6), DOM, HTML e CSS;
 - Test: Jest (unitário);
-- DevOps: Git, GitHub;
+- DevOps: Git, GitHub.
 
 **Frontend:**
-
-- Agile: Kanban e Scrum
-- Test: Jest, React Testing Library,
-- Dev.: Consumo de API, React.js, Redux.js, Hook.js,
+- Agile: Kanban e Scrum;
+- Test: Jest e React Testing Library;
+- Others: Consumo de API, React.js, Redux.js e Hook.js.
 
 **Backend:**
-
 - DevOps: Docker e Heroku;
-- Architecture: MSC;
+- Architecture: MSC (Model, Service e Controller);
 - Paradigma: OOP e SOLID;
-- Dev.: MySQL, Criação de API REST, Express, Sequelize, JWT, TypeScript e Mongoose;
+- Others: Criação de API, Express.js, Sequelize, JWT, TypeScript e Mongoose;
 - Database: MySQL e MongoDB;
-- Test: Mocha, Chai e Sinon (integração);
+- Test: Mocha, Chai e Sinon (integração).
 </details>
 <!-- 
 ## Linguagens e ferramentas de conhecimento:
