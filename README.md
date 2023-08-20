@@ -16,7 +16,7 @@
 ## Como tudo começou:
 Meu interesse por programação começou antes mesmo que eu escrevesse uma linha de código. Como a área de desenvolvimento de software é criativa, primeiro vem a ideia e depois o código. Eu já tinha um ideia do aplicativo que gostaria de desenvolver, contudo, eu não sabia como criar ou o que eu precisava aprender para isso.
 
-Em busca do “como fazer”, entendi que precisava programar. Pesquisando para entender isto, lembro-me que li um código na internet, que parecia C#/C++, e pensei: “MINHA NOSSA! isso não é para seres humanos normais”. Programação parecia longe da minha realidade.
+Em busca do "como fazer", entendi que precisava programar. Pesquisando para entender isto, lembro-me que li um código na internet, que parecia C#/C++, e pensei: "MINHA NOSSA! isso não é para seres humanos normais". Programação parecia longe da minha realidade.
 
 Mesmo que no início eu tenha pensado negativamente sobre programação, eu ainda encarei o desafiei e foi então que em 2017 eu ingressei no curso de Técnico de Informática da Escola Técnica Estadual (ETEC). Lá foi onde, finalmente, iniciar minha jornada no mundo do desenvolvimento de software.
 
