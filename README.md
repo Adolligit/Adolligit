@@ -13,14 +13,12 @@
 <!-- ## Projetos
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 
-## Quem sou eu:
-Meu nome é Adelson, tenho 24 anos, nasci e cresci na cidade de São Paulo - SP e atualmente continuo morando nela, mais especificamente na zona sul.
+## Como tudo começou:
+Meu interesse por programação começou antes mesmo que eu escrevesse uma linha de código. Como a área de desenvolvimento de software é criativa, primeiro vem a ideia e depois o código. Eu já tinha um ideia do aplicativo que gostaria de desenvolver, contudo, eu não sabia como criar ou o que eu precisava aprender para isso.
 
-Meu interesse por programação começou antes mesmo que eu escrevesse uma linha de código. Como desenvolvimento de software é uma área criativa, primeiro vem a ideia e depois o código. Eu já tinha a ideia (na verdade eu tinha várias), porém não sabia como implementa-la e não sabia que existem várias linguagens de programação e tantos conceitos diferente de desenvolvimento. Resumindo: eu não sabia nada!
+Em busca do “como fazer”, entendi que precisava programar. Pesquisando para entender isto, lembro-me que li um código na internet, que parecia C#/C++, e pensei: “MINHA NOSSA! isso não é para seres humanos normais”. Programação parecia longe da minha realidade.
 
-Em busca do “como fazer”, descobri que precisava programar. Lembro que li um código (que parecia C#/C++) na internet e pensei: “nossa, isso não é para seres humanos normais”. Programação parecia longe da minha realidade.
-
-Mesmo dentro deste contexto, eu me desafiei e foi então que entrei no curso de Técnico de Informática da Escola Técnica Estadual (ETEC), onde finalmente aprendi a programar e durante este período, tive várias ideias (e ainda tenho) para desenvolver aplicações que vão além do que sei como programador, pois quero cotribuir muito para o mundo.
+Mesmo que no início eu tenha pensado negativamente sobre programação, eu ainda encarei o desafiei e foi então que em 2017 eu ingressei no curso de Técnico de Informática da Escola Técnica Estadual (ETEC). Lá foi onde, finalmente, iniciar minha jornada no mundo do desenvolvimento de software.
 
 <!-- <details>
     <summary>
