@@ -1,9 +1,9 @@
 <!-- ## Projetos
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 
-## Como tudo começou:
-<p align="justify">
-Meu interesse por programação começou antes mesmo que eu escrevesse uma linha de código.</p>
+<h1> Como tudo começou:</h1>
+<h4 align="justify">
+Meu interesse por programação começou antes mesmo que eu escrevesse uma linha de código.</h3>
 
 <p align="justify">
 Minha ideia era criar um aplicativo onde o usuário pudesse realizar suas compras de supermercado, farmácia e outros estabelecimentos cadastrados (hoje há alguns aplicativos neste sentido). Contudo, eu não sabia como criar e não sabia o que precisava aprender para isso.
